@@ -11,7 +11,7 @@ h1{
 .img-jobs {
   width: 30vw;
   height: auto;
-  shape-outside: url(/assets/img/steve-jobs.png);
+  shape-outside: url(../assets/img/steve-jobs.png);
   shape-image-threshold: 0.5;
   float: left;
   padding-left: 5vw;
@@ -20,7 +20,7 @@ h1{
 .img-zuckerberg {
   width: 30vw;
   height: auto;
-  shape-outside: url(/assets/img/mark-zuckerberg.png);
+  shape-outside: url(../assets/img/mark-zuckerberg.png);
   shape-image-threshold: 0.5;
   float: right;
   padding-right: 5vw;
